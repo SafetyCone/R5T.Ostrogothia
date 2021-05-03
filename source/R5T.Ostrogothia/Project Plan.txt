@@ -1,3 +1,5 @@
+DEPRECATED
+
 R5T.Ostrogothia - An organization-types library.
 
 Goals

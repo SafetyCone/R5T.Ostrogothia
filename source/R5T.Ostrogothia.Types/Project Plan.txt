@@ -1,0 +1,4 @@
+R5T.Ostrogothia.Types - A types library for organization-related types.
+
+Goals
+

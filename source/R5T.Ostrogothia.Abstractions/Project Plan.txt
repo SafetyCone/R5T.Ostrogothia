@@ -1,0 +1,4 @@
+R5T.Ostrogothia.Abstractions - A abstractions library for organization-related types.
+
+Goals
+

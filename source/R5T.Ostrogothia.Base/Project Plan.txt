@@ -1,0 +1,8 @@
+R5T.Ostrogothia.Base - Base service definitions library for organization-related services.
+
+* Async.
+* Parameterless GetX() methods.
+
+
+Goals
+
